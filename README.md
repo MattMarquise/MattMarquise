@@ -1,6 +1,7 @@
 ### Hi I'm Matthew! 👋 🙃
 
-https://github.com/MattMarquise/MattMarquise/blob/master/profileimage.png
+![image](/profileimage.png) Format: ![Alt Text](url)
+
 
 <!--
 **MattMarquise/MattMarquise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
