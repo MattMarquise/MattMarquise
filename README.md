@@ -1,6 +1,6 @@
 ### Hi I'm Matthew! 👋 🙃
 
-![image](profileimage.png)
+https://github.com/MattMarquise/MattMarquise/blob/master/profileimage.png
 
 <!--
 **MattMarquise/MattMarquise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
