@@ -1,6 +1,6 @@
 ### Hi I'm Matthew! 👋 🙃
 
-![Matthew's Profile Image](/profileimage.png)
+![Matthew's Profile Image]()
 
 
 <!--
