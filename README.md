@@ -19,6 +19,9 @@ Looking to sign up for IEX Cloud? Use [my referral](https://iexcloud.io/s/f9b40f
 
 My name is Matthew and I currently live near Raleigh, NC, USA, though I am originally from Tampa, FL. I've always enjoyed taking things apart to see the inner workings of various psychical things. I was first introduced to code by two relatives who are both software engineers and the way they described software development sounding just as fun and rather than just disecting already written code, I could create my own! That's where it all began.😄
 
-Those two relatives encouraged me to learn the basics of web programming: HTML, CSS, and JS. I immediately fell in love with coding. I realized how easy it was to create and dismantle, in a way, my own, digital program. It was so much easier and enjoyable than building and dismantling psychical objects, and didn't cost a cent. 
+Those two relatives encouraged me to learn the basics of web programming: HTML, CSS, and JS and I immediately fell in love with coding. After creating a few simple websites I realized how easy it was to create and dismantle, in a way, my own, digital product. It was so much easier and enjoyable than building and dismantling psychical objects.
 
-My goal is to graduate next year (2021) with a job as a software engineer! I've worked very hard towards this goal for the past three years, since my relatives introduced me to the vast world of computer programming. If you're just starting out, don't be intimidated. You may be confused but the best way to alleviate the stress is to make connections with other developers, wether online or in person. Developers are one big family all learning similar concepts even though we may learn various different coding languages.
+My goal is to graduate next year (2021) and get a job as a software engineer! I've worked very hard towards this goal for the past three years, since my relatives introduced me to the vast world of computer programming. 
+
+##### Word of Advice To New Developers:
+If you're just starting out, don't be intimidated. You may be confused but the best way to alleviate the stress is to make connections with other developers, wether online or in person. Developers are one big family all learning similar concepts even though we may learn various different coding languages.
