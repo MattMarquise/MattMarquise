@@ -17,7 +17,7 @@ Looking to sign up for IEX Cloud? Use [my referral](https://iexcloud.io/s/f9b40f
 ## A little about my coding journey to becoming a developer:
 
 
-My name is Matthew and I currently live near Raleigh, NC, USA, though I am originally from Tampa, FL. I've always enjoyed taking things apart to see the inner workings of various psychical things. I was first introduced to code by two relatives who are both software engineers.
+My name is Matthew and I currently live near Raleigh, NC, USA, though I am originally from Tampa, FL. I've always enjoyed taking things apart to see the inner workings of various psychical things. I was first introduced to code by two relatives who are both software engineers and the way they described software development sounding just as fun and rather than just disecting already written code, I could create my own! That's where it all began.😄
 
 They encouraged me to learn the basics of web programming: HTML, CSS, and JS. I immediately fell in love with coding. I realized how easy it was to create and dismantle, in a way, my own, digital program. It was so much easier and enjoyable than building and dismantling psychical objects, and didn't cost a cent. 
 
