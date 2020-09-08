@@ -12,10 +12,10 @@
  <!-- - 💬 Ask me about... -->
  <!-- - 📫 How to reach me: ...-->
  <!-- - 😄 Pronouns: ...-->
-## Looking to sign up for IEX Cloud? Use [my referral](https://iexcloud.io/s/f9b40f68)!
+Looking to sign up for IEX Cloud? Use [my referral](https://iexcloud.io/s/f9b40f68)!
 
-A little about my coding journey to becoming a developer:
-Hello! 
+## A little about my coding journey to becoming a developer:
+
 
 My name is Matthew and I currently live near Raleigh, NC, USA but I am originally from Tampa, FL. I've always enjoyed taking things apart to see the inner workings of various psychical things. I was first introduced to code by two relatives who are both software engineers.
 
