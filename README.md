@@ -23,5 +23,5 @@ Those two relatives encouraged me to learn the basics of web programming: HTML, 
 
 My goal is to graduate next year (2021) and get a job as a software engineer! I've worked very hard towards this goal for the past three years, since my relatives introduced me to the vast world of computer programming. 
 
-##### Word of Advice To New Developers:
+#### Word of Advice To New Developers:
 If you're just starting out, don't be intimidated. You may be confused but the best way to alleviate the stress is to make connections with other developers, wether online or in person. Developers are one big family all learning similar concepts even though we may learn various different coding languages.
