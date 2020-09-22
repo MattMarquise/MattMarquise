@@ -6,7 +6,7 @@
   - 🌱 I’m currently learning Vue.JS!
   - 👯 I’m looking to collaborate on a project that has the potential to do good in the world!
   - 🤔 I’m looking for help with creating a better world! Who's in?
-  - 😛 I'm looking to learn more about using containerization software such as Docker. I'm also learning the ins and outs of version-control systems such as Git.
+  - 😛 I'm looking to learn more about using containerization softwares such as Docker. I'm also learning the ins and outs of version-control systems such as Git.
   - ⚡ Fun fact: I love homemade italian food!!!
  <!-- - 💬 Ask me about... -->
  <!-- - 📫 How to reach me: ...-->
