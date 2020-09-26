@@ -11,6 +11,11 @@
  <!-- - 💬 Ask me about... -->
  <!-- - 📫 How to reach me: ...-->
  <!-- - 😄 Pronouns: ...-->
+ 
+ 
+ [![Matthew's github stats](https://github-readme-stats.vercel.app/api?username=MattMarquise)](https://github.com/MattMarquise/github-readme-stats)
+ 
+ 
 Looking to sign up for IEX Cloud? Use [my referral](https://iexcloud.io/s/f9b40f68)!
 
 
