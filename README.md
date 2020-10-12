@@ -1,4 +1,4 @@
-### Hi I'm Matthew! 👋 🙃
+### Hi I'm Matthew!👋🙃
 #### I'm an 18 year old who builds software/web apps with a passion and a goal to grow my knowledge in programming.
 
 ![Matthew's Profile Image](https://github.com/MattMarquise/MattMarquise/blob/master/profileimage.png)
