@@ -11,7 +11,6 @@
   - ⚡ Fun fact: I love making and eating italian food!!!
  <!-- - 💬 Ask me about-->
  <!-- - 📫 How to reach me:-->
- <!-- - 😄 Pronouns:--> 
  
  
 ## My Stats:
