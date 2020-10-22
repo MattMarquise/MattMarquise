@@ -10,7 +10,8 @@
   - 🤔 I’m looking for help with creating a better world! Who's in?
   - 😛 I'm looking to learn more about using containerization softwares such as Docker. I'm also learning the ins and outs of version-control systems such as Git.
   - ⚡ Fun fact: I love making and eating italian food!!!
- <!-- - 💬 Ask me about: -->
+  - 🥳 What I've achieved lately: Hacktoberfest 2020
+<!-- - 💬 Ask me about: -->
  <!-- - 📫 How to reach me:-->
  
  
@@ -19,7 +20,7 @@
 ![Matthew's github stats](https://github-readme-stats.vercel.app/api/?username=MattMarquise&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 [![Matthew's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MattMarquise&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
- 
+
 ## More: 
 
 #### Looking to sign up for IEX Cloud? Use [my referral](https://iexcloud.io/s/f9b40f68)!
