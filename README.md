@@ -10,7 +10,7 @@
   - 🤔 I’m looking for help with creating a better world! Who's in?
   - 😛 I'm looking to learn more about using containerization softwares such as Docker. I'm also learning the ins and outs of version-control systems such as Git.
   - ⚡ Fun fact: I love making and eating italian food!!!
-  - 🥳 What I've achieved lately: [Hacktoberfest 2020](https://hacktoberfest.digitalocean.com/)
+  - 🥳 Latest achievements: [Hacktoberfest 2020](https://hacktoberfest.digitalocean.com/)
 <!-- - 💬 Ask me about: -->
  <!-- - 📫 How to reach me:-->
  
@@ -25,4 +25,4 @@
 
 #### Looking to sign up for IEX Cloud? Use [my referral](https://iexcloud.io/s/f9b40f68)!
 
-#### Want to join a community of Open Source deelopers to support open source repos? Then check out this organization I started on GitHub: [The Open Source Community](https://github.com/The-Open-Source-Community)
+#### Want to join a community of Open Source developers to support open source repos? Then check out this organization I started on GitHub: [The Open Source Community](https://github.com/The-Open-Source-Community)
