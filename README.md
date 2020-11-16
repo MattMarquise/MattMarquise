@@ -25,4 +25,4 @@
 
 #### Looking to sign up for IEX Cloud? Use [my referral](https://iexcloud.io/s/f9b40f68)!
 
-#### Want to join a community of Open Source developers to support open source repos? Then check out this organization I started on GitHub: [The Open Source Community](https://github.com/The-Open-Source-Community)
+#### Want to join a community of Open Source developers to support open source repos? Then check out this organization I started on GitHub: [The Open Source Community](https://github.com/The-Open-Source-Community)!
