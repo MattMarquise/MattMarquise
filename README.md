@@ -26,3 +26,6 @@
 #### Looking to sign up for IEX Cloud? Use [my referral](https://iexcloud.io/s/f9b40f68)!
 
 #### Want to join a community of Open Source developers to support open source repos? Then check out this organization I started on GitHub: [The Open Source Community](https://github.com/The-Open-Source-Community)!
+
+## My Dream Companies to Work For:
+Apple, Tesla, Space-X, Facebook, Instagram, Dropbox, Microsoft, Google, Zoom, Github
