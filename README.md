@@ -3,7 +3,7 @@
 
 ![Matthew's Profile Image](https://github.com/MattMarquise/MattMarquise/blob/master/profileimage.png)
 <!--**MattMarquise/MattMarquise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-## A Little About Me:
+# A Little About Me:
   - 🔭 I’m currently working on advancing my skills to land a job as a software engineer once I graduate in the spring of 2021!
   - 🌱 I’m currently learning Vue.JS! 
   - 👯 I’m looking to collaborate on a project that has the potential to do good in the world!
