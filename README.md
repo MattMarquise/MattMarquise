@@ -13,7 +13,7 @@
   - 🥳 Latest achievements: [Hacktoberfest 2020](https://hacktoberfest.digitalocean.com/)
 <!-- - 💬 Ask me about: -->
   - 📫 How to reach me: developmarq@gmail.com
-  - 👨🏼‍💻🧑🏼‍💻 My website: matthewmarquise.com
+  - 👨🏼‍💻My website: [matthewmarquise.com](https://matthewmarquise.com)
  
  
 ## My Stats:
