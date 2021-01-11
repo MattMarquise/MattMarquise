@@ -12,7 +12,8 @@
   - ⚡ Fun fact: I love making and eating italian food!!!
   - 🥳 Latest achievements: [Hacktoberfest 2020](https://hacktoberfest.digitalocean.com/)
 <!-- - 💬 Ask me about: -->
- <!-- - 📫 How to reach me:-->
+  - 📫 How to reach me: developmarq@gmail.com
+  - 👨🏼‍💻🧑🏼‍💻 My website: matthewmarquise.com
  
  
 ## My Stats:
