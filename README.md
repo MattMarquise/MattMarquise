@@ -1,7 +1,7 @@
 ### Hi I'm Matthew!👋😄
 #### I'm an 18 year old who builds software and web sites with a passion and a goal to grow my knowledge in programming! Coding has been something that has allowed me to build sites that truly showcase my imagination and love for design!
 
-![Matthew's Profile Image](https://github.com/MattMarquise/MattMarquise/blob/master/profileimage.png)
+<!--![Matthew's Profile Image](https://github.com/MattMarquise/MattMarquise/blob/master/profileimage.png)-->
 <!--**MattMarquise/MattMarquise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 # A Little About Me:
   - 🔭 I’m currently working on advancing my skills to land a job as a software engineer once I graduate in the spring of 2021!
