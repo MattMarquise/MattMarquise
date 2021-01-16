@@ -11,10 +11,9 @@
   - 😛 I'm looking to learn more about using containerization softwares such as Docker. I'm also learning the ins and outs of version-control systems such as Git.
   - ⚡ Fun fact: I love making and eating italian food!!!
   - 🥳 Latest achievements: [Hacktoberfest 2020](https://hacktoberfest.digitalocean.com/)
-<!-- - 💬 Ask me about: -->
   - 📫 How to reach me: developmarq@gmail.com
   - 👨🏼‍💻My website: [https://matthewmarquise.com](https://matthewmarquise.com)
- 
+  <!-- - 💬 Ask me about: -->
  
 ## My Stats:
 
