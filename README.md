@@ -10,7 +10,7 @@
   - 🤔 I’m looking for help with creating a better world! Who's in?
   - 😛 I'm looking to learn more about using containerization softwares such as Docker. I'm also learning the ins and outs of version-control systems such as Git.
   - ⚡ Fun fact: I love preparing and eating italian food!!!
-  - 🥳 Latest achievements: [Hacktoberfest 2020](https://hacktoberfest.digitalocean.com/)
+  - 🥳 Recent Hackathons: [Hacktoberfest 2020](https://hacktoberfest.digitalocean.com/)
   - 📫 How to reach me: developmarq@gmail.com
   - 👨🏼‍💻Check out my website: [MatthewMarquise.com](https://matthewmarquise.com)
   <!-- - 💬 Ask me about: -->
