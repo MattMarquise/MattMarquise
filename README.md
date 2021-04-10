@@ -5,10 +5,7 @@
 <!--**MattMarquise/MattMarquise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 # A Little About Me:
   - 🔭 I’m currently working on advancing my skills to land a job as a front-end engineer once I graduate in the spring of 2021!
-  - 🌱 I’m currently learning React! 
-  - 👯 I’m looking to collaborate on a project that has the potential to do good in the world!
-  - 🤔 I’m looking for help with creating a better world! Who's in?
-  - 😛 I'm looking to learn more about using containerization softwares such as Docker. I'm also learning the ins and outs of version-control systems such as Git.
+  - 🌱 I'm currently the ins and outs of UI/UX design currently and i'm loving it!
   - ⚡ Fun fact: I love preparing and eating italian food!
   - 🥳 Recent Hackathons: [Hacktoberfest 2020](https://hacktoberfest.digitalocean.com/)
   - 📫 How to reach me: developmarq@gmail.com
