@@ -7,7 +7,7 @@
   - 🔭 I’m currently working on advancing my skills to land a job as a front-end engineer once I graduate in the spring of 2021!
   - 🌱 I'm currently the ins and outs of UI/UX design currently and i'm loving it!
   - ⚡ Fun fact: I love preparing and eating italian food!
-  - 🥳 Recent Hackathons: [Hacktoberfest 2020](https://hacktoberfest.digitalocean.com/)
+  - 🥳 Recent Hackathons: [Hacktoberfest 2021](https://hacktoberfest.digitalocean.com/)
   - 📫 How to reach me: developmarq@gmail.com
   - 👨🏼‍💻Check out my website: [MatthewMarquise.com](https://matthewmarquise.com)
   <!-- - 💬 Ask me about: -->
