@@ -4,7 +4,7 @@
 <!--![Matthew's Profile Image](https://github.com/MattMarquise/MattMarquise/blob/master/profileimage.png)-->
 <!--**MattMarquise/MattMarquise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 # A Little About Me:
-  - 🔭 I’m currently working on advancing my skills to land a job as a front-end engineer once I graduate in the spring of 2021!
+  - 🔭 I’m currently applying to UX, UI, and Product Design roles. Let me know if you're company is hiring!
   - 🌱 I'm currently learning as much as I can about UI/UX design and i'm loving it!
   - ⚡ Fun fact: I love preparing and eating italian food!
   - 🥳 Recent Hackathons: [Hacktoberfest 2021](https://hacktoberfest.digitalocean.com/)
