@@ -9,7 +9,7 @@
   - ⚡ Fun fact: I love preparing and eating italian food!
   - 🥳 Recent Hackathons: [Hacktoberfest 2021](https://hacktoberfest.digitalocean.com/)
   - 📫 How to reach me: developmarq@gmail.com
-  - 👨🏼‍💻Check out my website: [MatthewMarquise.com](https://matthewmarquise.com)
+  - 👨🏼‍💻 Check out my website: [MatthewMarquise.com](https://matthewmarquise.com)
   <!-- - 💬 Ask me about: -->
  
 ## My Stats:
