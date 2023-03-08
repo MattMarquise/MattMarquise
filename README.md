@@ -7,7 +7,7 @@
   - 🔭 I’m currently applying to UX, UI, and Product Design roles. Let me know if you're company is hiring!
   - 🌱 I'm currently learning as much as I can about UI/UX design and i'm loving it!
   - ⚡ Fun fact: I love preparing and eating italian food!
-  - 🥳 Recent Hackathons: [Hacktoberfest 2021](https://hacktoberfest.digitalocean.com/)
+  - 🥳 Recent Hackathons: [Hacktoberfest 2022](https://hacktoberfest.digitalocean.com/)
   - 📫 How to reach me: developmarq@gmail.com
   - 👨🏼‍💻 Check out my website: [MatthewMarquise.com](https://matthewmarquise.com)
   <!-- - 💬 Ask me about: -->
