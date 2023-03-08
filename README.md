@@ -8,6 +8,8 @@
   - 🌱 I'm currently learning as much as I can about UI/UX design and i'm loving it!
   - ⚡ Fun fact: I love preparing and eating italian food!
   - 🥳 Recent Hackathons: [Hacktoberfest 2022](https://hacktoberfest.digitalocean.com/)
+  - Recent Work: On design and web team for [UX Y'all 2022](https://www.uxyall.org/)
+  - Currently: Starting a company.
   - 📫 How to reach me: developmarq@gmail.com
   - 👨🏼‍💻 Check out my website: [MatthewMarquise.com](https://matthewmarquise.com)
   <!-- - 💬 Ask me about: -->
