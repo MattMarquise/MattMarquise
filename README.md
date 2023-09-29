@@ -1,5 +1,5 @@
 # Hi! I'm Matthew! 👋 😋
-#### I'm a developer who focuses on crafting unique, modern, UI/UXs for softwares and websites. I have a passion and a goal to grow my knowledge in programming!
+I'm a developer who focuses on crafting unique, modern, UI/UXs for softwares and websites. I have a passion and a goal to grow my knowledge in programming!
 
 <!--![Matthew's Profile Image](https://github.com/MattMarquise/MattMarquise/blob/master/profileimage.png)-->
 <!--**MattMarquise/MattMarquise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
