@@ -4,12 +4,10 @@ I'm a developer who focuses on crafting unique, modern, UI/UXs for softwares and
 <!--![Matthew's Profile Image](https://github.com/MattMarquise/MattMarquise/blob/master/profileimage.png)-->
 <!--**MattMarquise/MattMarquise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 # A Little About Me:
-  - 🔭 I’m currently applying to UX, UI, and Product Design roles. Let me know if you're company is hiring!
   - 🌱 I'm currently learning as much as I can about UI/UX design and i'm loving it!
   - ⚡ Fun fact: I love preparing and eating italian food!
   - 🥳 Recent Hackathons: [Hacktoberfest 2022](https://hacktoberfest.digitalocean.com/)
   - 💼 Recent Work: On design and web team for [UX Y'all 2023](https://www.uxyall.org/)
-  - 🟢 Currently: Running a startup.
   - 📫 How to reach me: developmarq@gmail.com
   - 👨🏼‍💻 Check out my website: [MatthewMarquise.com](https://matthewmarquise.com)
   <!-- - 💬 Ask me about: -->
